@@ -2,18 +2,18 @@
 
 ### A web application for managing the booking system of events, halls, and services.
 
-1. Programming Languages:
+1.** Programming Languages:**
     - HTML5.
     - CSS3
     - JavaScript
     - JQuiry
     - PHP
     - SQL
-2. Database:
+2. **Database:**
     - MySql
-4. Server:
+4.** Server:**
     - PhpMyAdmin
-5. Project Pages
+5.** Project Pages**
     *  Home Page
     *  Registration/Login Page
     *  User Dashboard Page. 
