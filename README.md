@@ -33,6 +33,7 @@
 
 ### Project Screenshots:
 
+- ![image](https://github.com/AmatAlhakim/EventsManagementSystem/assets/93836202/3570aa75-d9ab-47a0-8bd6-978fe4f953d7)
 - ![admin dashboard](https://github.com/AmatAlhakim/EventsManagementSystem/assets/93836202/2c680e00-a217-4c87-a40f-fa7726cc1a2d)
 - ![admin login](https://github.com/AmatAlhakim/EventsManagementSystem/assets/93836202/e683a7b8-e21e-43c9-9565-2080605f68e6)
 - ![admin side bar](https://github.com/AmatAlhakim/EventsManagementSystem/assets/93836202/eae0a3eb-9988-4620-aca2-ccac67eb17d6)
