@@ -1,8 +1,10 @@
 # Events Management System
+<br />
 
 ### A web application for managing the booking system of events, halls, and services.
+<br />
 
-1.** Programming Languages:**
+1. **Programming Languages:**
     - HTML5.
     - CSS3
     - JavaScript
@@ -11,9 +13,9 @@
     - SQL
 2. **Database:**
     - MySql
-4.** Server:**
+4. **Server:**
     - PhpMyAdmin
-5.** Project Pages**
+5. **Project Pages**
     *  Home Page
     *  Registration/Login Page
     *  User Dashboard Page. 
@@ -31,7 +33,11 @@
     *  Manage and manipulate locations, services, and subservices Pages.
     *  Manage and manipulate clients and employees details pages.
 
+<br />
+
 ### Project Screenshots:
+<hr />
+<br />
 
 - ![image](https://github.com/AmatAlhakim/EventsManagementSystem/assets/93836202/3570aa75-d9ab-47a0-8bd6-978fe4f953d7)
 - ![admin dashboard](https://github.com/AmatAlhakim/EventsManagementSystem/assets/93836202/2c680e00-a217-4c87-a40f-fa7726cc1a2d)
